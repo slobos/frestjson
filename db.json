@@ -11,8 +11,10 @@
   "profile": {
     "name": "typicode"
   },
-  "rates": {
-    "5": "5 Stars rate"
-  }
+  "rates":  [
+    { "id": 5, "title": "5 Stars" },
+    { "id": 4, "title": "4 Stars" },
+    { "id": 3, "title": "3 Stars" }
+  ]
 
 }
